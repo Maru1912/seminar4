@@ -37,7 +37,7 @@ Console.WriteLine("A в степени B = " + step);
 
 
 
- /*Console.WriteLine("Введите число: ");
+ Console.WriteLine("Введите число: ");
 int a = Convert.ToInt32(Console.ReadLine());
  int sum = 0;
 
@@ -50,8 +50,7 @@ while (a > 0)
     sum = sum + num;
 
 }
-Console.WriteLine("Сумма всех чисел равна: " + sum);*/
-
+Console.WriteLine("Сумма всех чисел равна: " + sum);
 
 
 
@@ -60,7 +59,7 @@ Console.WriteLine("Сумма всех чисел равна: " + sum);*/
 
 
 
-/*int[] array = new int[8];
+int[] array = new int[8];
 
 
 
