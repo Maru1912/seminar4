@@ -1,8 +1,7 @@
 ﻿//Напишите программу, которая принимает на вход координаты 
 //двух точек и находит расстояние между ними в 3D пространстве.
 
-
-/*Console.WriteLine("Введите x 1 точки");
+Console.WriteLine("Введите x 1 точки");
 int x1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите y 1 точки");
 int y1 = Convert.ToInt32(Console.ReadLine());
@@ -28,14 +27,13 @@ double DistancePount(int x1, int y1, int x2, int y2,int z1, int z2 )
     double result = Math.Sqrt(result1 + result2 + result3);
     return result;
 
-}*/
-
+}
 
 
 //Напишите программу, которая принимает 
 //на вход пятизначное число и проверяет, является ли оно палиндромом. Через строку решать нельзя.
 
-/*int num, r, sum = 0, palindrome;
+int num, r, sum = 0, palindrome;
 Console.Write("Введите пятизначное число: ");
 num = Convert.ToInt32(Console.ReadLine());
 
@@ -55,7 +53,7 @@ else
 Console.Write($"Число {palindrome} не является палиндромом.");
 }
 else 
-Console.Write("Вы ввели неверное значение");*/
+Console.Write("Вы ввели неверное значение");
 
 
 
@@ -64,13 +62,13 @@ Console.Write("Вы ввели неверное значение");*/
 //Напишите программу, которая принимает 
 //на вход число (N) и выдаёт таблицу кубов чисел от 1 до N
 
-/*Console.WriteLine("Введите число");
+Console.WriteLine("Введите число");
 int num = Convert.ToInt32(Console.ReadLine());
 
 
 for( int i = 1; i <= num; i ++)
 
 Console.WriteLine($"{i * i * i} ");
-Console.WriteLine(" ");*/
+Console.WriteLine(" ");
 
 
