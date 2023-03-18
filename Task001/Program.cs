@@ -71,4 +71,7 @@ for (int i = 0; i < array.Length; i++)
 }
 
 string result = string.Join("", array);
-Console.Write($"[" + result + "]");*/
+Console.Write($"[" + result + "]");
+
+
+
